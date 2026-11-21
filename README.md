@@ -18,7 +18,7 @@ Panduan ini untuk versi Windows 10 / Windows 11.
    AzurePet-Setup.part2       22,8 MB
    AzurePet-Setup.part3       22,8 MB
    Pasang AzurePet.bat        file pemasang (klik dua kali)
-   BACA SAYA - AzurePet.txt   file panduan ini
+   README - AzurePet.txt   file panduan ini
 
 PENTING: keempat file (part1, part2, part3, dan .bat) harus ada di
 folder yang sama, dan namanya jangan diubah.
